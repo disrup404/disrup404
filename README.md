@@ -1,134 +1,112 @@
 
-# DISRUP404
+<body>
+  <center>
+    <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
+    <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:151515,100:252525&height=180&section=header&text=DISRUP&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20that%20matter.&descAlignY=58&descSize=15" width="100%" />
-</p>
+    <div align="center">
 
-<h3 align="center">
-  Software Developer | Problem Solver | Lifelong Learner
-</h3>
+      ![Disrup](./chibi.gif)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Building+and+learning.;Turning+ideas+into+software.;Understanding+the+logic+behind+the+code.;Always+under+development." />
-</p>
+      <h1 align="center">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮</h1>
+    </div>
 
----
+    <div align="center">
+      <!-- Profile animation -->
+    </div>
 
-### `About Me`
+    <div>
+      <div align="center">
+        <img src="./2c4542649a439792ce53f5e2cdcb4aff.jpg" align="right" width="170" height="270">
 
-```python
-class Disrup:
-    def __init__(self):
-        self.name = "Adekunle Amos"
-        self.alias = "Disrup"
-        self.role = "Software Developer"
-        self.education = "Software and Web Development"
+        <dl>
+          <dt align="left"><strong>Name:</strong></dt>
+          <dd align="left">Adekunle Amos</dd>
 
-        self.interests = [
-            "Software Development",
-            "Web Technologies",
-            "Problem Solving",
-            "Anime",
-            "Music"
-        ]
+          <dt align="left">Username:</dt>
+          <dd align="left">Disrup404</dd>
 
-    def current_status(self):
-        return "Learning, building and improving."
-```
+          <dt align="left">Profession:</dt>
+          <dd align="left">Software Developer</dd>
 
-I'm a Software and Web Development student passionate about building software and understanding how things work.
+          <dt align="left">Interests:</dt>
+          <dd align="left">Software Development, Technology, Anime, Music</dd>
 
-I enjoy experimenting with ideas, solving problems and turning concepts into functional applications.
+          <dt align="left">Hobbies:</dt>
+          <dd align="left">Coding, Exploring Ideas, Music, Reading</dd>
 
-I believe in understanding the logic behind the code rather than simply memorizing syntax.
+          <dt align="left">Currently:</dt>
+          <dd align="left">Learning, Building and Improving.</dd>
+        </dl>
+      </div>
 
-Currently learning, building personal projects and improving my development skills.
+      <br>
 
----
+      [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/)
 
-### `Tech Stack`
+      <div align="center">
+        <h2>𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼</h2>
+      </div>
 
-**Languages**
+      <p align="center">
+        <img src="https://neonicons.ironmanxd.site/icon/html5?size=37" alt="HTML" />
+        <img src="https://neonicons.ironmanxd.site/icon/css3?size=37" alt="CSS" />
+        <img src="https://neonicons.ironmanxd.site/icon/javascript?size=37" alt="JavaScript" />
+        <img src="https://neonicons.ironmanxd.site/icon/python?size=37" alt="Python" />
+        <img src="https://neonicons.ironmanxd.site/icon/php?size=37" alt="PHP" />
+      </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
-</p>
+      <p align="center">
+        <img src="https://neonicons.ironmanxd.site/icon/mysql?size=37" alt="MySQL" />
+        <img src="https://neonicons.ironmanxd.site/icon/sqlite?size=37" alt="SQLite" />
+        <img src="https://neonicons.ironmanxd.site/icon/git?size=37" alt="Git" />
+        <img src="https://neonicons.ironmanxd.site/icon/github?size=37" alt="GitHub" />
+      </p>
 
-**Tools & Technologies**
+      <p align="center">
+        <img src="https://neonicons.ironmanxd.site/icon/nodejs?size=37" alt="Node.js" />
+        <img src="https://neonicons.ironmanxd.site/icon/vscode?size=37" alt="VS Code" />
+        <img src="https://neonicons.ironmanxd.site/icon/linux?size=37" alt="Linux" />
+      </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux,nodejs" />
-</p>
+      <br>
 
-**Currently Exploring**
+      <div align="center">
+        <h1>𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮</h1>
+      </div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,bash" />
-</p>
+      <p align="center">
+        <a href="https://adekunle-amos.netlify.app/">
+          <img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/>
+        </a>
 
----
+        <a href="https://github.com/disrup404">
+          <img src="https://img.shields.io/badge/GITHUB-2e3440?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
 
-### `Projects`
+      <br>
 
-**01. Exam Preparation**
+      <div align="center">
+        <h1>𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓜𝓮</h1>
+      </div>
 
-An educational web application designed to help secondary school students prepare for examinations.
+      <div align="center">
+        <!-- Add a support link here if you decide to accept donations -->
+      </div>
 
-- Frontend: HTML, CSS and JavaScript
-- Backend: Python
-- Deployment: Vercel / Render
+      <br>
 
-**02. Crop Farm Management System**
+      <div align="center">
+        <h1>𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰</h1>
+      </div>
 
-A web-based application designed to simplify crop farm operations, records and activity management.
+      <img src="https://count.getloli.com/get/@:disrup404?theme=moebooru" alt="disrup404" />
 
-- PHP
-- MySQL
-- HTML, CSS and JavaScript
+      ______________________________________
 
----
+      ![Animation](https://raw.githubusercontent.com/IRON-M4N/IRON-M4N/output/github-contribution-grid-snake-dark.svg)
 
-### `Beyond Development`
-
-- Anime and manga.
-- Hip-hop, drill and music.
-- Technology and creative ideas.
-- Exploring how things work.
-- Building useful things.
-
----
-
-### `GitHub Statistics`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=disrup404&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=disrup404&hide_border=true&background=0d1117&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=777777" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disrup404&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" />
-</p>
-
----
-
-### `Connect With Me`
-
-<p align="center">
-  <a href="https://github.com/disrup404">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://adekunle-amos.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"The process is still running."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:252525,50:151515,100:090909&height=100&section=footer" width="100%" />
-</p>
+    </div>
+  </center>
+</body>
